@@ -98,7 +98,6 @@ localhost:8761/
 ## 2 Edit Customer
 
 ![image](https://user-images.githubusercontent.com/101510983/206924228-151e1ed2-e1d6-406d-8849-34da1dc34937.png)
-![WhatsApp Image 2022-12-13 at 09 19 11](https://user-images.githubusercontent.com/101005117/207266996-5e025253-895a-4d6c-b9da-fb4435c3d527.jpeg)
 
 
 ## 3 Delete Customer 
